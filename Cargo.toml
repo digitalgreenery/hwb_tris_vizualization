@@ -1,0 +1,8 @@
+[package]
+name = "square_tris_visualization"
+version = "0.1.0"
+edition = "2021"
+authors = ["Digital Greenery"]
+
+[dependencies]
+nannou = "0.18.1"
